@@ -31,3 +31,4 @@ while divisor < numero:
 else:
     # Esse bloco só será executado se o while terminar sem encontrar um divisor (sem break)
     print(f"{numero} é um número primo!")
+ 
